@@ -1,4 +1,4 @@
-import React, { useMemo } from "react"
+import { useMemo } from "react"
 import { useQuiz } from "../contexts/QuizContext"
 import QuestionPageNavigation from "../components/QuestionPageNavigation"
 import Option from "../components/Option"
